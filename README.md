@@ -203,21 +203,6 @@ Implements core Python structures (lists, nested dictionaries, optimized loops) 
 
 ---
 
-<!-- 13. CONTRIBUTION SNAKE SECTION -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepanshu/deepanshu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepanshu/deepanshu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepanshu/deepanshu/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 <!-- 14. CURRENT FOCUS SECTION -->
 ## 🎯 Current Focus
 
