@@ -210,17 +210,7 @@ Implements core Python structures (lists, nested dictionaries, optimized loops) 
 ---
 
 <!-- 11. GITHUB TROPHIES SECTION -->
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepanshu&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<!-- 12. CONTRIBUTION ACTIVITY SECTION -->
 ## 📈 Contribution Activity
 
 <div align="center">
