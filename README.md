@@ -193,24 +193,6 @@ Implements core Python structures (lists, nested dictionaries, optimized loops) 
 
 ---
 
-<!-- 10. GITHUB ANALYTICS SECTION -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepanshu&show_icons=true&theme=synthwave&hide_border=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d1117" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu&theme=synthwave&hide_border=true&fire=a855f7&ring=a855f7&sidenums=ffffff&currStreakLabel=a855f7&background=0D1117" alt="GitHub Streak" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu&layout=compact&theme=synthwave&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="60%" />
-
-</div>
-
----
-
-<!-- 11. GITHUB TROPHIES SECTION -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
