@@ -193,16 +193,6 @@ Implements core Python structures (lists, nested dictionaries, optimized loops) 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu&theme=react-dark&bg_color=0d1117&color=a855f7&line=8b5cf6&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
-
----
-
 <!-- 14. CURRENT FOCUS SECTION -->
 ## 🎯 Current Focus
 
