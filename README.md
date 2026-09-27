@@ -25,6 +25,7 @@
 </div>
 
 ---
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/376a6ea1-26e5-4a7f-964e-db3f4bafaefb" />
 
 <!-- 2. ABOUT SECTION -->
 ## 🔮 About Me
