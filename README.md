@@ -23,7 +23,6 @@
 [![Stars](https://img.shields.io/github/stars/deepanshu?style=flat-square&color=4f46e5&label=STARS)](https://github.com/deepanshu)
 
 </div>
-
 ---
 <!-- 2. ABOUT SECTION -->
 ## 🔮 About Me
